@@ -168,3 +168,5 @@ In a more complex game, such as chess, it's hard to search whole game tree. Howe
 * Book: George T. Heineman; Gary Pollice; Stanley Selkow. Algorithms in a nutshell. O'Reilly, 2009.
 * Wikipédia: <https://en.wikipedia.org/wiki/Minimax>
 * Nanyang Technological University: <https://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html>
+Nice README
+
